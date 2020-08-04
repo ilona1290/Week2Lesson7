@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\bin\Debug\netcoreapp3.1\SecondHomework.exe
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\bin\Debug\netcoreapp3.1\SecondHomework.deps.json
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\bin\Debug\netcoreapp3.1\SecondHomework.runtimeconfig.json
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\bin\Debug\netcoreapp3.1\SecondHomework.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\bin\Debug\netcoreapp3.1\SecondHomework.dll
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\bin\Debug\netcoreapp3.1\SecondHomework.pdb
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\obj\Debug\netcoreapp3.1\SecondHomework.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\obj\Debug\netcoreapp3.1\SecondHomework.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\obj\Debug\netcoreapp3.1\SecondHomework.AssemblyInfo.cs
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\obj\Debug\netcoreapp3.1\SecondHomework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\obj\Debug\netcoreapp3.1\SecondHomework.dll
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\obj\Debug\netcoreapp3.1\SecondHomework.pdb
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Warunki\SecondHomework\SecondHomework\obj\Debug\netcoreapp3.1\SecondHomework.genruntimeconfig.cache
